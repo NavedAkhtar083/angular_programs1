@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'chainingpipes';
+  DOB=new Date(1947,8,11)
+  name:string="Ajeet";
+  article:string="hello world";
+  position:string="pipes in the Angular";
+  
 }
